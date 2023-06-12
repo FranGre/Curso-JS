@@ -1,5 +1,5 @@
 //1ra forma de crear String y más COMUN
-const productoFran = 'TV de 49 "'
+let productoFran = 'TV de 49 "'
 productoFran = "TV de 49 \""
 
 //2da forma de crear String
