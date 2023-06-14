@@ -1,0 +1,1 @@
+// Comparar booleanos con el estricto ===
